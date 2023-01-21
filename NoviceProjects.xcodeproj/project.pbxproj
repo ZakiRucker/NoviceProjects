@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		4C499E97297C26BC002AED13 /* fibonacci.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4C499E96297C26BC002AED13 /* fibonacci.cpp */; };
-		4CC450EF29784FCA00459363 /* helloYou.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4CC450EE29784FCA00459363 /* helloYou.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -125,7 +124,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				4C499E97297C26BC002AED13 /* fibonacci.cpp in Sources */,
-				4CC450EF29784FCA00459363 /* helloYou.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
