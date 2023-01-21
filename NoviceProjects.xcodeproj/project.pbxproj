@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4C499E97297C26BC002AED13 /* fibonacci.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4C499E96297C26BC002AED13 /* fibonacci.cpp */; };
 		4CC450EF29784FCA00459363 /* helloYou.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4CC450EE29784FCA00459363 /* helloYou.cpp */; };
 /* End PBXBuildFile section */
 
@@ -23,6 +24,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		4C499E96297C26BC002AED13 /* fibonacci.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = fibonacci.cpp; sourceTree = "<group>"; };
 		4CC450EB29784FCA00459363 /* NoviceProjects */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = NoviceProjects; sourceTree = BUILT_PRODUCTS_DIR; };
 		4CC450EE29784FCA00459363 /* helloYou.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = helloYou.cpp; sourceTree = "<group>"; };
 		4CC450F529785B9400459363 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
@@ -60,6 +62,7 @@
 			isa = PBXGroup;
 			children = (
 				4CC450EE29784FCA00459363 /* helloYou.cpp */,
+				4C499E96297C26BC002AED13 /* fibonacci.cpp */,
 			);
 			path = NoviceProjects;
 			sourceTree = "<group>";
@@ -121,6 +124,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4C499E97297C26BC002AED13 /* fibonacci.cpp in Sources */,
 				4CC450EF29784FCA00459363 /* helloYou.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
