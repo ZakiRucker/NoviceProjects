@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		4C499E97297C26BC002AED13 /* fibonacci.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4C499E96297C26BC002AED13 /* fibonacci.cpp */; };
+		4C499E9C297D67DA002AED13 /* timeCounter.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4C499E9B297D67DA002AED13 /* timeCounter.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -24,6 +24,7 @@
 
 /* Begin PBXFileReference section */
 		4C499E96297C26BC002AED13 /* fibonacci.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = fibonacci.cpp; sourceTree = "<group>"; };
+		4C499E9B297D67DA002AED13 /* timeCounter.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = timeCounter.cpp; sourceTree = "<group>"; };
 		4CC450EB29784FCA00459363 /* NoviceProjects */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = NoviceProjects; sourceTree = BUILT_PRODUCTS_DIR; };
 		4CC450EE29784FCA00459363 /* helloYou.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = helloYou.cpp; sourceTree = "<group>"; };
 		4CC450F529785B9400459363 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
@@ -62,6 +63,7 @@
 			children = (
 				4CC450EE29784FCA00459363 /* helloYou.cpp */,
 				4C499E96297C26BC002AED13 /* fibonacci.cpp */,
+				4C499E9B297D67DA002AED13 /* timeCounter.cpp */,
 			);
 			path = NoviceProjects;
 			sourceTree = "<group>";
@@ -123,7 +125,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4C499E97297C26BC002AED13 /* fibonacci.cpp in Sources */,
+				4C499E9C297D67DA002AED13 /* timeCounter.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
